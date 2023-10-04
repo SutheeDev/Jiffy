@@ -6,7 +6,7 @@ Hi There! This repository represents a mock project I made during my [SuperHi](h
 
 - [Features](#features)
 - [Technologies Used](#technologies)
-- [Feedback](#feedback)
+- [Feedback](#suggesstion)
 - [License](#license) <br><br>
 
 ## Features <a name='features'></a>
@@ -45,7 +45,7 @@ Jiffy was developed with a streamlined selection of technologies, balancing simp
 - GIPHY API
 - Netlify <br><br>
 
-## Feedback <a name='feedback'></a>
+## Feedback <a name='suggesstion'></a>
 
 This repo is a learning project, and your feedback is highly appreciated. If you have suggestions for improvements, encounter any issues, or would like to collaborate, please get in touch with me on GitHub. Thanks! <br><br>
 
