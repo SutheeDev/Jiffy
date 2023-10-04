@@ -2,6 +2,8 @@
 
 Hi There! This repository represents a mock project I made during my [SuperHi](https://www.superhi.com/) class called [Jiffy](https://sutheedev-jiffy.netlify.app/), a web application thoughtfully crafted by the SuperHi team. Jiffy allows you to effortlessly explore the world of GIFs, short videos, and memes. You can instantly search and enjoy various animated content with intuitive features and a clean user interface. <br><br>
 
+![multiple of cats images displayed on Jiffy application](https://res.cloudinary.com/dnc7potxo/image/upload/v1696415527/ReadMe-Images/Jiffy/Screen_Shot_2566-10-04_at_17.29.45_vsnqit.png) <br><br>
+
 ## Table of Contents
 
 - [Features](#features)
