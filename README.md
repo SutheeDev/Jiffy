@@ -13,27 +13,27 @@ Hi There! This repository represents a mock project I made during my [SuperHi](h
 
 ### Easy Getting Started:
 
-When you first visit Jiffy, you'll see the placeholder in the search input, guiding you on what to do immediately.
+- When you first visit Jiffy, you'll see the placeholder in the search input, guiding you on what to do immediately.
 
 ### Keyword Search
 
-Type anything you want to see in GIF, short video, or meme form.
+- Type anything you want to see in GIF, short video, or meme form.
 
 ### Interactive Hints
 
-After typing a keyword with more than two letters, a hint will appear on the screen, helping you understand what to do next.
+- After typing a keyword with more than two letters, a hint will appear on the screen, helping you understand what to do next.
 
 ### Seamless Loading
 
-When you hit enter after typing your keyword, Jiffy displays a loading icon while randomly fetching a GIF video using the GIPHY API.
+- When you hit enter after typing your keyword, Jiffy displays a loading icon while randomly fetching a GIF video using the GIPHY API.
 
 ### Enjoy Unlimited GIFs
 
-Once the GIF is loaded, it's displayed on the screen. You can hit enter again to fetch and enjoy another GIF with the same keyword.
+- Once the GIF is loaded, it's displayed on the screen. You can hit enter again to fetch and enjoy another GIF with the same keyword.
 
 ### Clear and Start Over
 
-When you're done with videos for a particular keyword, pressing the Esc key or clicking the clear button will remove all videos on the screen and reset the search input, allowing you to start a new search. <br><br>
+- When you're done with videos for a particular keyword, pressing the Esc key or clicking the clear button will remove all videos on the screen and reset the search input, allowing you to start a new search. <br><br>
 
 ## Technologies Used <a name='technologies'></a>
 
